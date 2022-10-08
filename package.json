@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Acuña Concha Claudio Joaquin, Dominguez Aguayo Hector Hugo, Hernandez Michel Jose Luis, Llanos Rosas Luis Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "~18.0.6",
+    "express": "~3.2.4",
+    "node-fetch": "~3.2.6",
+    "socket.io": "~0.9.14"
+  },
+  "devDependencies": {
+    "@types/socket.io": "~3.0.2"
+  }
+}
